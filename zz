@@ -1,9 +1,0 @@
-Resources:
-# Creating S3 Bucket
-  S3Bucket:
-    Type: AWS::S3::Bucket
-    Properties:
-      BucketName: demotestfbdfhbvhjvrtfghfgh
-      AccessControl: Private
-      VersioningConfiguration:
-        Status: Enabled
